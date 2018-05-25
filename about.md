@@ -1,12 +1,8 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Jo"
 permalink: /about/
 ---
 
-hi
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+Story of an ordinary Jo living in a cornful area, doing cornful stuff, and loving a cornful life.
