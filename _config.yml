@@ -1,0 +1,26 @@
+# Site settings
+title:          Cornful Jo
+description:    "Story of an ordinary Jo living in a cornful area, doing cornful stuff, and loving a cornful life"
+url:            "https://mgjo5899.github.io"
+
+# Author
+author:
+  name:         Joseph Cho
+  url:          https://mgjo5899.github.io
+  email:        mgjo5899@gmail.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
