@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Initial Post"
+title:  "Flask Note"
 author: "Jo"
 ---
 
