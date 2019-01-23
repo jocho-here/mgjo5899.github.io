@@ -1,26 +1,7 @@
-# Site settings
-title:          Home
-description:    "Joseph's Blog"
-url:            "https://mgjo5899.github.io"
-
-# Author
-author:
-  name:         Joseph Cho
-  url:          https://mgjo5899.github.io
-  email:        mgjo5899@gmail.com
-
-# Build settings
-markdown:       kramdown
-
-# Assets
-sass:
-  sass_dir:     _sass
-  style:        compressed
-
-# Gems
-plugins:
-  - jekyll-paginate
-
-# Permalinks
-permalink:      /:year-:month-:day/:title
-paginate:       5
+title: Joseph Cho
+description: CS Senior @ Illinois
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+github_url: https://github.com/mgjo5899
+linkedin_url: https://www.linkedin.com/in/joseph-cho-b70465115/
