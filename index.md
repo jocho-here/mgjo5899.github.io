@@ -52,6 +52,11 @@ KATUSA (Korean Augmentation to the US Army) Soldier
 
 
 # Project
+[**Traders**](https://github.com/mgjo5899/Traders)  
+- Databse Systems course team project
+- A web platform that provides APIs for people to test their trading models and shows analysis on them
+- Worked on the backend side of the project, focused on planning the project firmly and coming up with thorough documentation to fully utilize what we learned from the course
+
 [**Assess**](https://devpost.com/software/assess)  
 - HackRice 8 (2018) Project
 - What we created: Camera-based property identifying app with recommendations system
