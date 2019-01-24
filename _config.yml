@@ -5,5 +5,3 @@ google_analytics:
 theme: jekyll-theme-cayman
 github_url: https://github.com/mgjo5899
 linkedin_url: https://www.linkedin.com/in/joseph-cho-b70465115/
-plugins:
-    - jekyll-seo-tag
