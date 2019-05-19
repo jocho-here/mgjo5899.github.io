@@ -53,16 +53,16 @@ KATUSA (Korean Augmentation to the US Army) Soldier
 
 # Project
 [**Traders**](https://github.com/mgjo5899/Traders)  
-- Databse Systems course team project
+- Database Systems course team project
 - A web platform that provides APIs for people to test their trading models and shows analysis on them
 - Worked on the backend side of the project, focused on planning the project firmly and coming up with thorough documentation to fully utilize what we learned from the course
 
 [**Assess**](https://devpost.com/software/assess)  
 - HackRice 8 (2018) Project
-- What we created: Camera-based property identifying app with recommendations system
+- What we created: Camera-based property identifying app with recommender system
 - Key points:
 	1. Building identification
-	2. Recommendations system
+	2. Recommender system
 - Stack:
 	1. Dockerized Flask with MySQL (with SQLAlchemy) on Google Cloud Platform
 	2. Node with MongoDB on Heroku
@@ -77,8 +77,7 @@ KATUSA (Korean Augmentation to the US Army) Soldier
 [**SocialmedAI**](https://devpost.com/software/socialmedai-v51gni)  
 - MHacks 11 (2018) project
 - Won Clarafai Award
-- SocialmedAI analyzes user's social media account in terms of effectiveness of images and captions to them.
-- It looks at user's posts, analyzes image through the object recognition, analyzes captions and their relationship with the post image, and how all these influenced the popularity in terms of the number of likes and comments.
+- SocialmedAI analyzes a user's social media account in terms of effectiveness of images with their captions.
 - Took the backend part of the project; created Flask server on GCP Compute Engine, used MySQL with SQLAlchemy to cache user data for faster processing, and utilized docker for containerization. Provided API endpoints to connect our Python NLP engine with the frontend.
 
 [**Resume Categorizer**](https://github.com/mgjo5899/resume-categorizer)
