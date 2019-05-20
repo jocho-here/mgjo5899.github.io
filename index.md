@@ -2,19 +2,11 @@
 layout: default
 ---
 
-# Education
-[**University of Illinois at Urbana-Champaign**](https://illinois.edu/)  
-_Bachelor of Computer Science_  
-- Expected to graduate in May 2019
-- Founding member of [Les Cleviers](https://illinois.campuslabs.com/engage/organization/lesclaviers), and have participated for 3 semesters as a pianist
-- Participated in [ILLINIhilation](https://irobotics.illinois.edu/teams/jsdc/illinihilation/)'s software team for 1 semester
-
-[**Dunn High School**](https://www.dunnschool.org/)  
-- Worked as the CEO at [Earwig Cafe & Student Store](https://www.dunnschool.org/stud-life-earwig-cafe.php)
-- Participated in a jazz band as a clarinetist
-
-
 # Experience
+[**Granular**](https://granular.ag/)  
+Software Engineer
+- Returning as a software engineer starting July 8th
+
 [**Granular**](https://granular.ag/)  
 Software Engineering Intern
 - Built a Slack Bot to help with the onboarding process. Worked heavily on designing the project architecture. 
@@ -51,7 +43,25 @@ KATUSA (Korean Augmentation to the US Army) Soldier
 - Led the US sustainment cell at the 2nd Operational Command of ROK to success during combined exercises in the Republic of Korea as the sergeant-level head of the cell; received 2 ARCOM, 2 AAM, several COAs
 
 
+# Education
+[**University of Illinois at Urbana-Champaign**](https://illinois.edu/)  
+_Bachelor of Computer Science_  
+- Graduated in May 2019
+- Founding member of [Les Cleviers](https://illinois.campuslabs.com/engage/organization/lesclaviers), and have participated for 3 semesters as a pianist
+- Participated in [ILLINIhilation](https://irobotics.illinois.edu/teams/jsdc/illinihilation/)'s software team for 1 semester
+
+[**Dunn High School**](https://www.dunnschool.org/)  
+- Graduated in May 2012
+- Worked as the CEO at [Earwig Cafe & Student Store](https://www.dunnschool.org/stud-life-earwig-cafe.php)
+- Participated in a jazz band as a clarinetist
+
+
 # Project
+**whoami**
+- whoami project is a service that lets users create their web boards using their social media
+- Embeds contents on a personalized web board to represent an individual
+- Targets to get rid of many embedded social media symbol buttons when someone wants to provide viewers with his/her social media accounts; instead, it will be replaced with one "whoami" button to unify them all
+
 [**Traders**](https://github.com/mgjo5899/Traders)  
 - Database Systems course team project
 - A web platform that provides APIs for people to test their trading models and shows analysis on them
@@ -68,11 +78,6 @@ KATUSA (Korean Augmentation to the US Army) Soldier
 	2. Node with MongoDB on Heroku
 	3. Swift for iOS
 - Worked on Dockerized Flask with MySQL (with SQLAlchemy) on Google Cloud Platform
-
-**whoami**
-- whoami project is a service that lets users create their web boards using their social media
-- Embeds contents on a personalized web board to represent an individual
-- Targets to get rid of many embedded social media symbol buttons when someone wants to provide viewers with his/her social media accounts; instead, it will be replaced with one "whoami" button to unify them all
 
 [**SocialmedAI**](https://devpost.com/software/socialmedai-v51gni)  
 - MHacks 11 (2018) project
