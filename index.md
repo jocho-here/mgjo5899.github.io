@@ -5,7 +5,10 @@ layout: default
 # Experience
 [**Granular**](https://granular.ag/)  
 Software Engineer
-- Returning as a software engineer starting July 8th
+
+- Software engineer in Granular Business - team Vinyl
+- Our mission at Granular is to use technology to help farmers run stronger businesses and steward the land for generations to come.  Granular serves one of the world's largest ($3 trillion revenue) and most important industries.
+- Granular was funded by Andreessen Horowitz, Google Ventures, Khosla Ventures, and Tao Capital. It was acquired by Corteva (formerly Dow-Dupont) in 2017.
 
 [**Granular**](https://granular.ag/)  
 Software Engineering Intern
