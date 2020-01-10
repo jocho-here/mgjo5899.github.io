@@ -55,7 +55,7 @@ _Bachelor of Computer Science_
 
 [**Dunn High School**](https://www.dunnschool.org/)  
 - Graduated in May 2012
-- Worked as the CEO at [Earwig Cafe & Student Store](https://www.dunnschool.org/stud-life-earwig-cafe.php)
+- Worked as the CEO at [Earwig Cafe & Student Store](https://www.dunnschool.org/alumni-and-giving/advancement-office/leading-matters)
 - Participated in a jazz band as a clarinetist
 
 
