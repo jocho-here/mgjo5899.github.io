@@ -84,7 +84,7 @@ _Bachelor of Computer Science_
 
 [**SocialmedAI**](https://devpost.com/software/socialmedai-v51gni)  
 - MHacks 11 (2018) project
-- Won Clarafai Award
+- Won the [Clarifai](https://www.clarifai.com/) Award for the best use of its API
 - SocialmedAI analyzes a user's social media account in terms of effectiveness of images with their captions.
 - Took the backend part of the project; created Flask server on GCP Compute Engine, used MySQL with SQLAlchemy to cache user data for faster processing, and utilized docker for containerization. Provided API endpoints to connect our Python NLP engine with the frontend.
 
